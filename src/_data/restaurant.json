@@ -1,21 +1,21 @@
 {
-  "name": "La Familia Café",
-  "about": "Family-owned Mexican café in downtown Kalamazoo, serving authentic breakfast and lunch in a warm, vibrant setting.",
-  "phone": "(269) 312-8014",
+  "name": "Fish & Chicken Land (Ballenger Hwy)",
+  "about": "Local spot for fried fish, wings, shrimp, and classic sides in Flint.",
+  "phone": "(810) 780-4702",
   "email": "",
-  "street": "224 West Michigan Avenue",
-  "city": "Kalamazoo",
+  "street": "1186 N Ballenger Hwy",
+  "city": "Flint",
   "state": "MI",
-  "zip": "49007",
-  "mapUrl": "https://maps.google.com/?q=224+West+Michigan+Avenue+Kalamazoo+MI+49007",
+  "zip": "48504",
+  "mapUrl": "https://maps.google.com/?q=1186+N+Ballenger+Hwy,+Flint,+MI+48504",
   "timezone": "America/Detroit",
   "hours": [
-    { "day": "Mon", "open": "8am", "close": "3pm" },
-    { "day": "Tue", "open": "8am", "close": "3pm" },
-    { "day": "Wed", "open": "8am", "close": "3pm" },
-    { "day": "Thu", "open": "8am", "close": "3pm" },
-    { "day": "Fri", "open": "8am", "close": "3pm" },
-    { "day": "Sat", "open": "8am", "close": "2pm" },
-    { "day": "Sun", "open": "", "close": "" }
+    { "day": "Mon", "open": "10am", "close": "9pm" },
+    { "day": "Tue", "open": "10am", "close": "9pm" },
+    { "day": "Wed", "open": "10am", "close": "9pm" },
+    { "day": "Thu", "open": "10am", "close": "9pm" },
+    { "day": "Fri", "open": "10am", "close": "9pm" },
+    { "day": "Sat", "open": "10am", "close": "9pm" },
+    { "day": "Sun", "open": "11am", "close": "8pm" }
   ]
 }
