@@ -1,14 +1,14 @@
 {
-  "name": "New Leaf Complete Landscape Services",
+  "name": "Fish and Chicken Land",
   "email": "igarcia2644@gmail.com",
-  "phone": "574-575-0869",
-  "phoneFormatted": "(574)-575-0869",
+  "phone": "810-691-9808",
+  "phoneFormatted": "(810)-691-9808",
   "address": {
-    "lineOne": "First Address Line",
-    "lineTwo": "Second Address Line, If Needed",
-    "city": "Denver",
-    "county": "CO",
-    "postcode": "80206",
+    "lineOne": "1186 N Ballenger Hwy",
+    "lineTwo": "4108 Saginaw St",
+    "city": "Flint",
+    "county": "Mi",
+    "postcode": "48504",
     "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
   },
   "domain": "www.website.com"
