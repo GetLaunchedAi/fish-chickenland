@@ -173,7 +173,7 @@
   body.dark-mode #main {
     background-color: rgba(0, 0, 0, 0.6);
   }
-  
+
   body.dark-mode #hero-1950,
   body.dark-mode .menu-wrap-container {
     background-color: var(--dark, #082032);
@@ -323,7 +323,7 @@
 }
 
 .vprice {
-  color: #4a4a4a;
+  color: rgba(255, 255, 255, 0.8) !important;
   white-space: nowrap
 }
 
