@@ -319,7 +319,7 @@
 }
 
 .vlabel {
-  color: #444
+  color: rgba(255, 255, 255, 0.8) !important;
 }
 
 .vprice {
