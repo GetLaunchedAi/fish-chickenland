@@ -4,89 +4,98 @@
       "id": "fish_only",
       "title": "Fish (Fish Only)",
       "items": [
-        { "name": "3 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$6.49" }] },
-        { "name": "4 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$7.99" }] },
-        { "name": "5 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$9.99" }] },
-        { "name": "8 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$14.99" }] },
-        { "name": "12 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$19.99" }] },
-        { "name": "16 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$25.99" }] },
-        { "name": "21 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$32.99" }] },
-        { "name": "25 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$35.99" }] },
-        { "name": "30 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$45.99" }] },
-        { "name": "40 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$58.99" }] },
-        { "name": "50 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$64.99" }] },
-        { "name": "75 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$99.99" }] },
-        { "name": "100 Piece Fish", "desc": "Mild white fish, fried.", "variants": [{ "label": "", "price": "$129.99" }] }
-      ]
-    },
-    {
-      "id": "fish_meals",
-      "title": "Fish (Fish Meal)",
-      "items": [
-        { "name": "3 Piece Fish Meal", "desc": "Includes 2 small sides.", "variants": [{ "label": "", "price": "$9.49" }] },
-        { "name": "4 Piece Fish Meal", "desc": "Includes 2 small sides.", "variants": [{ "label": "", "price": "$10.99" }] },
-        { "name": "5 Piece Fish Meal", "desc": "Includes 2 small sides.", "variants": [{ "label": "", "price": "$12.99" }] },
-        { "name": "8 Piece Fish Meal", "desc": "Includes 2 medium sides.", "variants": [{ "label": "", "price": "$19.99" }] },
-        { "name": "12 Piece Fish Meal", "desc": "Includes 2 large sides.", "variants": [{ "label": "", "price": "$28.99" }] },
-        { "name": "16 Piece Fish Meal", "desc": "Includes 2 large sides.", "variants": [{ "label": "", "price": "$34.99" }] },
-        { "name": "21 Piece Fish Meal", "desc": "Includes 2 large sides.", "variants": [{ "label": "", "price": "$41.99" }] }
+        { "name": "2 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$5.99" }] },
+        { "name": "3 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$7.99" }] },
+        { "name": "4 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$9.99" }] },
+        { "name": "5 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$11.99" }] },
+        { "name": "8 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$17.99" }] },
+        { "name": "12 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$25.99" }] },
+        { "name": "16 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$33.99" }] },
+        { "name": "21 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$42.99" }] },
+        { "name": "25 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$47.99" }] },
+        { "name": "30 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$53.99" }] },
+        { "name": "40 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$64.99" }] },
+        { "name": "50 Pc Fish", "desc": "Choice of Whiting, Ocean Perch, Catfish Swai, or Tilapia.", "variants": [{ "label": "", "price": "$84.99" }] }
       ]
     },
     {
       "id": "specialty_fish",
       "title": "Specialty Fish",
       "items": [
-        { "name": "American Catfish (Dinner)", "desc": "Served with sides.", "variants": [{ "label": "", "price": "$13.98" }] },
-        { "name": "Catfish Steak", "desc": "Fried catfish steak.", "variants": [{ "label": "", "price": "$9.99" }] },
-        { "name": "8 Pc. Fish & Large Fries", "desc": "Fish with large fries.", "variants": [{ "label": "", "price": "$19.99" }] }
-      ]
-    },
-    {
-      "id": "wings_chicken",
-      "title": "Wings & Chicken",
-      "items": [
-        { "name": "10 Wings & Fries", "desc": "Regular or spicy.", "variants": [{ "label": "", "price": "$12.99" }] },
-        { "name": "30 Wings", "desc": "Regular or spicy.", "variants": [{ "label": "", "price": "$30.99" }] },
-        { "name": "30 Wing Dings", "desc": "Spicy or regular, includes 2 large sides.", "variants": [{ "label": "", "price": "$29.99" }] }
-      ]
-    },
-    {
-      "id": "combos",
-      "title": "Combos & Buckets",
-      "items": [
-        { "name": "Surf & Turf", "desc": "Fish and shrimp combo.", "variants": [{ "label": "", "price": "$13.99" }] },
-        { "name": "Fisherman’s Plate", "desc": "Assorted seafood combo.", "variants": [{ "label": "", "price": "$13.99" }] },
-        { "name": "3 Pc Fish, 3 Pc Wings, 3 Jumbo Shrimp & Fries", "desc": "Mixed combo with fries.", "variants": [{ "label": "", "price": "$10.99" }] },
-        { "name": "18 Wings, 18 Piece Fish (2 Large Sides)", "desc": "Party combo.", "variants": [{ "label": "", "price": "$50.99" }] },
-        { "name": "10 Wings, 10 Shrimp, 10 Fish (2 Large Sides)", "desc": "Party combo.", "variants": [{ "label": "", "price": "$48.99" }] },
-        { "name": "18 Wings, 18 Shrimp, 18 Fish (2 Large Sides)", "desc": "Party combo.", "variants": [{ "label": "", "price": "$68.99" }] }
+        { "name": "American Catfish (Dinner)", "desc": "Served with sides.", "variants": [{ "label": "8 Pc", "price": "$17.99" }, { "label": "10 Pc", "price": "$21.99" }, { "label": "12 Pc", "price": "$23.99" }] },
+        { "name": "Orange Roughy (Dinner)", "desc": "Served with sides.", "variants": [{ "label": "8 Pc", "price": "$17.99" }, { "label": "10 Pc", "price": "$21.99" }, { "label": "12 Pc", "price": "$23.99" }] }
       ]
     },
     {
       "id": "shrimp",
       "title": "Shrimp",
       "items": [
-        { "name": "Large Shrimp (Dinner)", "desc": "Fried jumbo shrimp with sides.", "variants": [{ "label": "", "price": "$10.99" }] }
+        { "name": "10 Pc Butterfly Shrimp", "desc": "Crispy fried shrimp.", "variants": [{ "label": "", "price": "$8.99" }] },
+        { "name": "6 Pc Jumbo Shrimp", "desc": "Large crispy shrimp.", "variants": [{ "label": "", "price": "$8.99" }] },
+        { "name": "8 Pc Jumbo Shrimp", "desc": "Large crispy shrimp.", "variants": [{ "label": "", "price": "$11.99" }] },
+        { "name": "12 Pc Jumbo Shrimp", "desc": "Large crispy shrimp.", "variants": [{ "label": "", "price": "$15.99" }] },
+        { "name": "18 Pc Jumbo Shrimp", "desc": "Large crispy shrimp.", "variants": [{ "label": "", "price": "$21.99" }] }
       ]
     },
     {
-      "id": "specials",
-      "title": "Daily Specials",
+      "id": "wings_chicken",
+      "title": "Wings & Chicken",
       "items": [
-        { "name": "Catfish Nuggets (Tuesday Special)", "desc": "Served with fries and bread. Available Tuesday only.", "variants": [{ "label": "", "price": "$6.99" }] },
-        { "name": "Wing Ding Plate (Wednesday Special)", "desc": "Served with fries and bread. Available Wednesday only.", "variants": [{ "label": "", "price": "$7.99" }] },
-        { "name": "Shrimp Basket (Thursday Special)", "desc": "Served with fries and bread. Available Thursday only.", "variants": [{ "label": "", "price": "$8.99" }] },
-        { "name": "Fish Dinner (Friday Special)", "desc": "Served with fries and bread. Available Friday only.", "variants": [{ "label": "", "price": "$9.99" }] }
+        { "name": "Wing Dings", "desc": "Spicy or regular.", "variants": [{ "label": "10 Pc", "price": "$7.99" }, { "label": "20 Pc", "price": "$15.99" }, { "label": "50 Pc", "price": "$37.99" }] },
+        { "name": "Flavored Wing Dings", "desc": "BBQ, Sweet Chili, Teriyaki, Parmesan Garlic, Buffalo.", "variants": [{ "label": "10 Pc", "price": "$8.49" }, { "label": "20 Pc", "price": "$18.99" }, { "label": "50 Pc", "price": "$46.99" }] },
+        { "name": "8 Pc Chicken", "desc": "Dark or mixed.", "variants": [{ "label": "Chicken Only (Dark)", "price": "$8.99" }, { "label": "Meal (Dark)", "price": "$11.99" }, { "label": "Chicken Only (Mixed)", "price": "$10.99" }, { "label": "Meal (Mixed)", "price": "$12.99" }] },
+        { "name": "12 Pc Chicken", "desc": "Dark or mixed.", "variants": [{ "label": "Chicken Only (Dark)", "price": "$12.99" }, { "label": "Meal (Dark)", "price": "$18.99" }, { "label": "Chicken Only (Mixed)", "price": "$15.99" }, { "label": "Meal (Mixed)", "price": "$21.99" }] },
+        { "name": "16 Pc Chicken", "desc": "Dark or mixed.", "variants": [{ "label": "Chicken Only (Dark)", "price": "$16.99" }, { "label": "Meal (Dark)", "price": "$24.99" }, { "label": "Chicken Only (Mixed)", "price": "$20.99" }, { "label": "Meal (Mixed)", "price": "$28.99" }] },
+        { "name": "20 Pc Chicken", "desc": "Dark or mixed.", "variants": [{ "label": "Chicken Only (Dark)", "price": "$20.99" }, { "label": "Meal (Dark)", "price": "$34.99" }, { "label": "Chicken Only (Mixed)", "price": "$26.99" }, { "label": "Meal (Mixed)", "price": "$38.99" }] }
+      ]
+    },
+    {
+      "id": "combos",
+      "title": "Family & Combo Meals",
+      "items": [
+        { "name": "16 Pc Mixed Fish", "desc": "Includes 2 large sides.", "variants": [{ "label": "", "price": "$33.99" }] },
+        { "name": "18 Wings & 18 Pc Fish", "desc": "Includes 2 large sides.", "variants": [{ "label": "", "price": "$53.99" }] },
+        { "name": "25 Wings & 25 Pc Fish", "desc": "Includes 2 large sides.", "variants": [{ "label": "", "price": "$75.99" }] },
+        { "name": "18 Pc Wings, 18 Pc Shrimp, 18 Pc Fish", "desc": "Includes 2 large sides.", "variants": [{ "label": "", "price": "$71.99" }] },
+        { "name": "30 Wing Dings", "desc": "Spicy or regular with 2 large sides.", "variants": [{ "label": "", "price": "$31.99" }] },
+        { "name": "20 Pc Wings", "desc": "Includes 2 large sides.", "variants": [{ "label": "", "price": "$30.99" }] },
+        { "name": "12 Pc Fish", "desc": "Whiting, Ocean Perch, Catfish Swai or Tilapia. Includes 2 large sides.", "variants": [{ "label": "", "price": "$29.99" }] }
+      ]
+    },
+    {
+      "id": "new_items",
+      "title": "New Items",
+      "items": [
+        { "name": "Shrimp Basket & Fries", "desc": "Golden shrimp with fries.", "variants": [{ "label": "", "price": "$5.99" }] },
+        { "name": "Krab Bites", "desc": "Fried imitation crab bites.", "variants": [{ "label": "", "price": "$3.99" }] },
+        { "name": "Clam Strips", "desc": "Crispy clam strips.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "2 Steak Egg Rolls", "desc": "Crispy steak-filled rolls.", "variants": [{ "label": "", "price": "$4.99" }] },
+        { "name": "Mac & Cheese Bites (5 Pc)", "desc": "Crispy cheesy bites.", "variants": [{ "label": "", "price": "$2.99" }] }
       ]
     },
     {
       "id": "sides_snacks",
       "title": "Sides & Snacks",
       "items": [
+        { "name": "French Fries", "desc": "Golden fried potatoes.", "variants": [{ "label": "Small", "price": "$2.99" }, { "label": "Large", "price": "$4.99" }, { "label": "Family", "price": "$8.99" }] },
         { "name": "Mac & Cheese", "desc": "Creamy mac.", "variants": [{ "label": "", "price": "$2.99" }] },
-        { "name": "Clam Strips", "desc": "Crispy fried clam strips.", "variants": [{ "label": "", "price": "$2.99" }] },
-        { "name": "Krab Bites", "desc": "Fried imitation crab bites.", "variants": [{ "label": "", "price": "$2.99" }] },
-        { "name": "2 Steak Egg Rolls", "desc": "Crispy steak-filled egg rolls.", "variants": [{ "label": "", "price": "$3.99" }] }
+        { "name": "Onion Rings", "desc": "Crispy onion rings.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Okra", "desc": "Southern fried okra.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Green Beans", "desc": "Seasoned greens.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Cole Slaw", "desc": "Creamy slaw.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Hush Puppies", "desc": "Fried hush puppies.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Mashed Potatoes & Gravy", "desc": "Creamy potatoes with gravy.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Baked Beans", "desc": "Sweet BBQ beans.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Potato Salad", "desc": "Classic potato salad.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Sweet Corn", "desc": "Buttery corn.", "variants": [{ "label": "", "price": "$2.99" }] },
+        { "name": "Fried Pickles", "desc": "Crispy fried pickles.", "variants": [{ "label": "", "price": "$2.99" }] }
+      ]
+    },
+    {
+      "id": "desserts",
+      "title": "Desserts",
+      "items": [
+        { "name": "Cake Slice", "desc": "Assorted flavors.", "variants": [{ "label": "", "price": "$3.29" }] }
       ]
     }
   ]

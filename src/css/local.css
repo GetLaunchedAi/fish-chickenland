@@ -545,7 +545,7 @@
     flex-direction: column;
     gap: .75rem;
     width: min(800px, 100%);
-    margin: 0;
+    margin: 2rem 4rem;
     /* background: blue; */
     border:1px solid var(--primary);
     border-radius: 12px;
@@ -577,7 +577,7 @@
 
   .rv__btn{
     position:absolute;
-    top: 50%;
+    top: 60%;
     transform: translateY(-50%);
     inline-size: 2.5rem;
     block-size: 2.5rem;

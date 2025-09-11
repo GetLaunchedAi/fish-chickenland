@@ -203,7 +203,7 @@
 .menu-wrap {
   max-width: 760px;
   margin: auto;
-  padding: 64px;
+  padding: 64px 16px;
 }
 
 .badge {
@@ -231,7 +231,8 @@
   grid-template-columns: repeat(8, 1fr);
   gap: 0;
   padding: 14px 10px;
-  border-bottom: 1px solid #edd9be
+  border-bottom: 1px solid #edd9be;
+  overflow-x: auto;
 }
 
 .tab {
@@ -382,6 +383,7 @@ body.dark-mode .menu .panel .item .price {
     font-size: clamp(24px, 3.5vw, 32px);
     line-height: 1.15;
     color: var(--primaryDark);
+    text-align: center;
   }
 
   .ri h3 {
