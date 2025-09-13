@@ -318,13 +318,19 @@
   padding: 3px 0
 }
 
-.vlabel {
+body.dark-mode .vlabel {
   color: rgba(255, 255, 255, 0.8) !important;
 }
-
-.vprice {
+body.dark-mode .vprice {
   color: rgba(255, 255, 255, 0.8) !important;
   white-space: nowrap
+}
+
+.vlabel {
+  color: rgba(0, 0, 0, 0.8);
+}
+.vprice {
+  color: rgba(0, 0, 0, 0.8);
 }
 
 @media (max-width:520px) {

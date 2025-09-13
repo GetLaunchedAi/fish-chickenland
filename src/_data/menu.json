@@ -8,15 +8,15 @@
           "name": "Spicy or Regular",
           "variants": [
             {
-              "label": "10 Pieces",
+              "label": "10 -",
               "price": "$7.99"
             },
             {
-              "label": "20 Pieces",
+              "label": "20 -",
               "price": "$15.99"
             },
             {
-              "label": "50 Pieces",
+              "label": "50 -",
               "price": "$37.99"
             }
           ]
@@ -31,15 +31,15 @@
           "name": "BBQ, Sweet Chili, Teriyaki, Parmesan Garlic, Buffalo",
           "variants": [
             {
-              "label": "10 Pieces",
+              "label": "10 -",
               "price": "$8.49"
             },
             {
-              "label": "20 Pieces",
+              "label": "20 -",
               "price": "$18.99"
             },
             {
-              "label": "50 Pieces",
+              "label": "50 -",
               "price": "$46.99"
             }
           ]
@@ -87,7 +87,8 @@
           ]
         },
         {
-          "name": "Mac & Cheese Bites (5 piece)",
+          "name": "Mac & Cheese Bites",
+          "desc": "(5 piece)",
           "variants": [
             {
               "label": "",
@@ -188,11 +189,11 @@
       "items": [
         {
           "name": "2 Piece Fish & 5 Piece Wings",
-          "desc": "Includes fries & 12oz. drink or cole slaw.",
+          "desc": "Includes fries & 12 oz. Drink or Cole Slaw.",
           "variants": [
             {
               "label": "",
-              "price": "$11.49"
+              "price": "$6.59"
             }
           ]
         },
@@ -205,6 +206,26 @@
               "price": "$32.99"
             }
           ]
+        },
+        {
+          "name": "2 Pc Fish & 3 Pc Wings",
+          "desc": "With fries & 12oz. drink.",
+          "variants": [
+            {
+              "label": "",
+              "price": "$5.59"
+            }
+          ]
+        },
+        {
+          "name": "4 Pc Fish & 5 Pc Wings",
+          "desc": "With fries & 12oz. drink.",
+          "variants": [
+            {
+              "label": "",
+              "price": "$11.49"
+            }
+          ]
         }
       ]
     },
@@ -213,8 +234,18 @@
       "title": "Combo Specials",
       "items": [
         {
-          "name": "5 pc. Fish, 5 pc. Shrimp, 5 pc. Chicken Tenders",
-          "desc": "10 pc. Fish or 10 pc. Shrimp or 10 pc. Chicken Tenders with 2 large side items.",
+          "name": "PICK TWO",
+          "desc": "3 pc. Fish or 3 pc. Shrimp or 3 pc. Wings or 3 pc. Chicken Tenders",
+          "variants": [
+            {
+              "label": "",
+              "price": "$10.99"
+            }
+          ]
+        },
+        {
+          "name": "PICK TWO",
+          "desc": "6 pc. Fish or 6 pc. Shrimp or 6 pc. Wings or 6 pc. Chicken Tenders, Comes with Small Side item",
           "variants": [
             {
               "label": "",
@@ -227,22 +258,14 @@
     {
       "id": "famous_fish_only",
       "title": "Famous Fish Only",
+      "desc": "Whiting, Ocean Perch, Swai Catfish, Tilapia",
       "items": [
-        {
-          "name": "2 PC",
-          "variants": [
-            {
-              "label": "",
-              "price": "6.99"
-            }
-          ]
-        },
         {
           "name": "3 PC",
           "variants": [
             {
               "label": "",
-              "price": "7.99"
+              "price": "5.99"
             }
           ]
         },
@@ -251,7 +274,7 @@
           "variants": [
             {
               "label": "",
-              "price": "9.99"
+              "price": "7.99"
             }
           ]
         },
@@ -260,7 +283,7 @@
           "variants": [
             {
               "label": "",
-              "price": "11.99"
+              "price": "9.99"
             }
           ]
         },
@@ -269,7 +292,7 @@
           "variants": [
             {
               "label": "",
-              "price": "17.99"
+              "price": "14.99"
             }
           ]
         },
@@ -278,7 +301,7 @@
           "variants": [
             {
               "label": "",
-              "price": "25.99"
+              "price": "19.99"
             }
           ]
         },
@@ -287,16 +310,16 @@
           "variants": [
             {
               "label": "",
-              "price": "33.99"
+              "price": "26.99"
             }
           ]
         },
         {
-          "name": "21 PC",
+          "name": "20 PC",
           "variants": [
             {
               "label": "",
-              "price": "42.99"
+              "price": "32.99"
             }
           ]
         },
@@ -305,7 +328,7 @@
           "variants": [
             {
               "label": "",
-              "price": "47.99"
+              "price": "37.99"
             }
           ]
         },
@@ -314,7 +337,7 @@
           "variants": [
             {
               "label": "",
-              "price": "53.99"
+              "price": "43.99"
             }
           ]
         },
@@ -323,7 +346,7 @@
           "variants": [
             {
               "label": "",
-              "price": "64.99"
+              "price": "59.99"
             }
           ]
         },
@@ -332,7 +355,7 @@
           "variants": [
             {
               "label": "",
-              "price": "84.99"
+              "price": "64.99"
             }
           ]
         }
@@ -344,7 +367,25 @@
       "desc": "Whiting, Ocean Perch, Swai Catfish, Tilapia",
       "items": [
         {
-          "name": "10 PC Fish",
+          "name": "8 Pc Fish",
+          "variants": [
+            {
+              "label": "",
+              "price": "14.99"
+            }
+          ]
+        },
+        {
+          "name": "10 Pc Fish",
+          "variants": [
+            {
+              "label": "",
+              "price": "17.99"
+            }
+          ]
+        },
+        {
+          "name": "12 Pc Fish",
           "variants": [
             {
               "label": "",
@@ -353,16 +394,16 @@
           ]
         },
         {
-          "name": "12 PC Fish",
+          "name": "15 Pc Fish",
           "variants": [
             {
               "label": "",
-              "price": "24.99"
+              "price": "23.99"
             }
           ]
         },
         {
-          "name": "16 PC Fish",
+          "name": "20 Pc Fish",
           "variants": [
             {
               "label": "",
@@ -371,7 +412,7 @@
           ]
         },
         {
-          "name": "20 PC Fish",
+          "name": "25 Pc Fish",
           "variants": [
             {
               "label": "",
@@ -380,16 +421,16 @@
           ]
         },
         {
-          "name": "25 PC Fish",
+          "name": "30 Pc Fish",
           "variants": [
             {
               "label": "",
-              "price": "49.99"
+              "price": "44.99"
             }
           ]
         },
         {
-          "name": "30 PC Fish",
+          "name": "40 Pc Fish",
           "variants": [
             {
               "label": "",
@@ -398,20 +439,11 @@
           ]
         },
         {
-          "name": "40 PC Fish",
+          "name": "50 Pc Fish",
           "variants": [
             {
               "label": "",
               "price": "64.99"
-            }
-          ]
-        },
-        {
-          "name": "50 PC Fish",
-          "variants": [
-            {
-              "label": "",
-              "price": "84.99"
             }
           ]
         }
@@ -482,7 +514,7 @@
           ]
         },
         {
-          "name": "5 PC Jumbo",
+          "name": "6 PC Jumbo",
           "variants": [
             {
               "label": "",
@@ -534,16 +566,16 @@
           ]
         },
         {
-          "name": "5 Wings & Fries",
+          "name": "6 Wings & Fries",
           "variants": [
             {
               "label": "",
-              "price": "7.99"
+              "price": "8.99"
             }
           ]
         },
         {
-          "name": "8 Wings & Fries",
+          "name": "10 Wings & Fries",
           "variants": [
             {
               "label": "",
@@ -552,20 +584,11 @@
           ]
         },
         {
-          "name": "10 Wings",
-          "variants": [
-            {
-              "label": "",
-              "price": "9.99"
-            }
-          ]
-        },
-        {
           "name": "15 Wings",
           "variants": [
             {
               "label": "",
-              "price": "18.99"
+              "price": "16.99"
             }
           ]
         },
@@ -574,7 +597,7 @@
           "variants": [
             {
               "label": "",
-              "price": "24.99"
+              "price": "21.99"
             }
           ]
         },
@@ -583,7 +606,7 @@
           "variants": [
             {
               "label": "",
-              "price": "29.99"
+              "price": "25.99"
             }
           ]
         },
@@ -592,7 +615,7 @@
           "variants": [
             {
               "label": "",
-              "price": "35.99"
+              "price": "30.99"
             }
           ]
         },
@@ -619,7 +642,7 @@
           "variants": [
             {
               "label": "",
-              "price": "72.99"
+              "price": "73.99"
             }
           ]
         },
@@ -637,7 +660,7 @@
           "variants": [
             {
               "label": "",
-              "price": "57.99"
+              "price": "52.99"
             }
           ]
         },
@@ -675,10 +698,10 @@
       "title": "Chicken Legs & Thigh",
       "items": [
         {
-          "name": "1 Pc",
+          "name": "2 Pc",
           "variants": [
             {
-              "label": "Dinner",
+              "label": "Fries",
               "price": "4.49"
             },
             {
@@ -688,10 +711,10 @@
           ]
         },
         {
-          "name": "2 Pc",
+          "name": "3 Pc",
           "variants": [
             {
-              "label": "Dinner",
+              "label": "Fries",
               "price": "5.49"
             },
             {
@@ -701,10 +724,10 @@
           ]
         },
         {
-          "name": "3 Pc",
+          "name": "4 Pc",
           "variants": [
             {
-              "label": "Dinner",
+              "label": "Fries",
               "price": "6.49"
             },
             {
@@ -714,10 +737,10 @@
           ]
         },
         {
-          "name": "4 Pc",
+          "name": "5 Pc",
           "variants": [
             {
-              "label": "Dinner",
+              "label": "Fries",
               "price": "7.49"
             },
             {
@@ -727,23 +750,10 @@
           ]
         },
         {
-          "name": "5 Pc",
-          "variants": [
-            {
-              "label": "Dinner",
-              "price": "7.99"
-            },
-            {
-              "label": "Dinner",
-              "price": "9.99"
-            }
-          ]
-        },
-        {
           "name": "Breast",
           "variants": [
             {
-              "label": "Dinner",
+              "label": "",
               "price": "3.00"
             }
           ]
@@ -788,7 +798,7 @@
       "title": "Chicken Tenders Only",
       "items": [
         {
-          "name": "1 PC",
+          "name": "3 PC",
           "variants": [
             {
               "label": "",
@@ -797,7 +807,7 @@
           ]
         },
         {
-          "name": "3 PC",
+          "name": "6 PC",
           "variants": [
             {
               "label": "",
@@ -806,16 +816,16 @@
           ]
         },
         {
-          "name": "6 PC",
+          "name": "10 PC",
           "variants": [
             {
               "label": "",
-              "price": "9.99"
+              "price": "10.99"
             }
           ]
         },
         {
-          "name": "10 PC",
+          "name": "16 PC",
           "variants": [
             {
               "label": "",
@@ -882,88 +892,84 @@
       "items": [
         {
           "name": "8 PC Chicken",
-          "desc": "Meals: 2 Large Sides",
           "variants": [
             {
-              "label": "Chicken Only - Mixed",
+              "label": "Chicken Only - Dark",
               "price": "8.99"
             },
             {
-              "label": "Chicken Only - Dark",
+              "label": "Chicken Only - Mixed",
               "price": "10.99"
             },
             {
-              "label": "Meals - Mixed",
-              "price": "12.99"
+              "label": "Meals - Dark w/ 2 Large Sides",
+              "price": "16.99"
             },
             {
-              "label": "Meals - Dark",
-              "price": "15.99"
+              "label": "Meals - Mixed w/ 2 Large Sides",
+              "price": "18.99"
             }
           ]
         },
         {
           "name": "12 PC Chicken",
-          "desc": "Meals: 2 Large Sides",
           "variants": [
             {
-              "label": "Chicken Only - Mixed",
-              "price": "13.99"
-            },
-            {
               "label": "Chicken Only - Dark",
-              "price": "16.99"
+              "price": "12.99"
             },
             {
-              "label": "Meals - Mixed",
-              "price": "18.99"
+              "label": "Chicken Only - Mixed",
+              "price": "15.99"
             },
             {
-              "label": "Meals - Dark",
+              "label": "Meals - Dark w/ 2 Large Sides",
               "price": "21.99"
+            },
+            {
+              "label": "Meals - Mixed w/ 2 Large Sides",
+              "price": "24.99"
             }
           ]
         },
         {
           "name": "16 PC Chicken",
-          "desc": "Meals: 3 Large Sides",
           "variants": [
             {
-              "label": "Chicken Only - Mixed",
+              "label": "Chicken Only - Dark",
               "price": "16.99"
             },
             {
-              "label": "Chicken Only - Dark",
+              "label": "Chicken Only - Mixed",
               "price": "20.99"
             },
             {
-              "label": "Meals - Mixed",
-              "price": "24.99"
+              "label": "Meals - Dark w/ 3 Large Sides",
+              "price": "28.99"
             },
             {
-              "label": "Meals - Dark",
-              "price": "28.99"
+              "label": "Meals - Mixed w/ 3 Large Sides",
+              "price": "34.99"
             }
           ]
         },
         {
           "name": "20 PC Chicken",
-          "desc": "Meals: 3 Large Sides",
           "variants": [
             {
-              "label": "Chicken Only - Mixed",
+              "label": "Chicken Only - Dark",
               "price": "20.99"
             },
             {
-              "label": "Chicken Only - Dark",
+              "label": "Chicken Only - Mixed",
               "price": "26.99"
             },
             {
-              "label": "Meals - Mixed",
+              "label": "Meals - Dark w/ 3 Large Sides",
               "price": "34.99"
             },
             {
-              "label": "Meals - Dark",
+              "label": "Meals - Mixed w/ 3 Large Sides",
               "price": "38.99"
             }
           ]
@@ -975,7 +981,7 @@
       "title": "Fish Bucket",
       "items": [
         {
-          "name": "10 Piece w/Lg. Side Item",
+          "name": "10 Piece w/Lg Side Item",
           "desc": "Choice of Catfish, Perch, Whiting or Tilapia",
           "variants": [
             {
@@ -994,7 +1000,7 @@
           "name": "French Fries",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1011,7 +1017,7 @@
           "name": "Mac & Cheese",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1028,7 +1034,7 @@
           "name": "Cole Slaw",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1045,7 +1051,7 @@
           "name": "Red Beans & Rice",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1062,7 +1068,7 @@
           "name": "Onion Rings",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1079,7 +1085,7 @@
           "name": "Okra",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1096,7 +1102,7 @@
           "name": "Hush Puppies",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1113,7 +1119,7 @@
           "name": "Corn",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1130,7 +1136,7 @@
           "name": "Spaghetti",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1147,7 +1153,7 @@
           "name": "Potato Salad",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1164,7 +1170,7 @@
           "name": "Mashed Potatoes",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1181,7 +1187,7 @@
           "name": "Collard Greens",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1198,7 +1204,7 @@
           "name": "Sweet Corn",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1215,7 +1221,7 @@
           "name": "Nuggets",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "2.99"
             },
             {
@@ -1232,7 +1238,7 @@
           "name": "Mushrooms",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "3.29"
             },
             {
@@ -1249,7 +1255,7 @@
           "name": "Cauliflower",
           "variants": [
             {
-              "label": "Regular",
+              "label": "Small",
               "price": "3.29"
             },
             {
@@ -1282,7 +1288,8 @@
           ]
         },
         {
-          "name": "All Other Sides (excluding mushrooms & cauliflower)",
+          "name": "All Other Sides",
+          "desc": "(excluding Mushrooms & Cauliflower)",
           "variants": [
             {
               "label": "Half Pan",
@@ -1328,7 +1335,8 @@
           ]
         },
         {
-          "name": "Mac & Cheese Bites (5 piece)",
+          "name": "Mac & Cheese Bites",
+          "desc": "(5 piece)",
           "variants": [
             {
               "label": "",
